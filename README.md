@@ -1,16 +1,12 @@
 # letturarandom
 
-Visualizza in modo casuale delle parole sullo schermo
+
+This application implements a reading exercise for children. A word list is displayed, one word at a time and in different places on the screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For implementation, It will be used the following be libraries:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Stack: [https://www.youtube.com/watch?v=liEGSeD3Zt8](https://www.youtube.com/watch?v=liEGSeD3Zt8)
+- [https://www.youtube.com/watch?v=g2E7yl3MwMk](https://www.youtube.com/watch?v=g2E7yl3MwMk)
+- [https://www.youtube.com/watch?v=QZAvjqOqiLY&t=1s](https://www.youtube.com/watch?v=QZAvjqOqiLY&t=1s)
